@@ -10,3 +10,6 @@
 [submodule "DeepCTR"]
 	path = DeepCTR
 	url = https://github.com/shenweichen/DeepCTR.git
+[submodule "DeepInterestNetwork"]
+	path = DeepInterestNetwork
+	url = https://github.com/zhougr1993/DeepInterestNetwork.git
