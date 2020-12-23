@@ -1,0 +1,3 @@
+[submodule "DIN/DeepInterestNetwork"]
+	path = DIN/DeepInterestNetwork
+	url = https://github.com/zhougr1993/DeepInterestNetwork.git
