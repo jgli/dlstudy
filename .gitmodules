@@ -1,9 +1,3 @@
-[submodule "DIN/DeepInterestNetwork"]
-	path = DIN/DeepInterestNetwork
-	url = https://github.com/zhougr1993/DeepInterestNetwork.git
-[submodule "PURS/PURS"]
-	path = PURS/PURS
-	url = https://github.com/lpworld/PURS.git
 [submodule "tensorflow-DeepFM"]
 	path = tensorflow-DeepFM
 	url = https://github.com/ChenglongChen/tensorflow-DeepFM.git
