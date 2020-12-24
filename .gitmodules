@@ -10,3 +10,9 @@
 [submodule "PURS"]
 	path = PURS
 	url = https://github.com/lpworld/PURS.git
+[submodule "novelty/PURS"]
+	path = novelty/PURS
+	url = https://github.com/lpworld/PURS.git
+[submodule "novelty/SLRC"]
+	path = novelty/SLRC
+	url = https://github.com/THUwangcy/SLRC.git
