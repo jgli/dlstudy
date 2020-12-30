@@ -16,3 +16,6 @@
 [submodule "novelty/SLRC"]
 	path = novelty/SLRC
 	url = https://github.com/THUwangcy/SLRC.git
+[submodule "Ad-papers"]
+	path = Ad-papers
+	url = https://github.com/wzhe06/Ad-papers.git
