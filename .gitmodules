@@ -19,3 +19,6 @@
 [submodule "Ad-papers"]
 	path = Ad-papers
 	url = https://github.com/wzhe06/Ad-papers.git
+[submodule "DSIN"]
+	path = DSIN
+	url = https://github.com/shenweichen/DSIN.git
