@@ -22,3 +22,6 @@
 [submodule "DSIN"]
 	path = DSIN
 	url = https://github.com/shenweichen/DSIN.git
+[submodule "dien"]
+	path = dien
+	url = git@github.com:mouna99/dien.git
