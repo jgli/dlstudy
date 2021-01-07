@@ -25,3 +25,6 @@
 [submodule "dien"]
 	path = dien
 	url = git@github.com:mouna99/dien.git
+[submodule "deep_ctr"]
+	path = deep_ctr
+	url = git@github.com:wziji/deep_ctr.git
