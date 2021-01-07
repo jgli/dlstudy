@@ -1,3 +1,3 @@
-# 论文阅读记录
+## 论文阅读记录
 
-001. Adaptive, Personalized Diversity for Visual Discovery[2016, Amazon]
+001: Adaptive, Personalized Diversity for Visual Discovery[2016, Amazon]
