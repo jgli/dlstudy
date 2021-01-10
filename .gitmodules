@@ -31,3 +31,6 @@
 [submodule "ATRank"]
 	path = ATRank
 	url = git@github.com:jinze1994/ATRank.git
+[submodule "MIMN"]
+	path = MIMN
+	url = git@github.com:UIC-Paper/MIMN.git

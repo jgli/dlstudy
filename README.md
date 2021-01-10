@@ -10,4 +10,6 @@
 008: [DSIN: Deep Session Interest Network for Click-Through Rate Prediction (Alibaba, 2019)](https://arxiv.org/abs/1905.06482) <br />
 009: [BST: Behavior Sequence Transformer for E-commerce Recommendation in Alibaba (Alibaba, 2019)](https://arxiv.org/abs/1905.06874) <br />
 010: [ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation (Alibaba, 2017)](https://arxiv.org/abs/1711.06632) <br />
+011: [MIMN: Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction (Alibaba, 2019)](https://arxiv.org/abs/1905.09248) <br />
+
 
