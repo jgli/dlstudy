@@ -3,7 +3,7 @@
 ### 召回和排序
 * [Deep Neural Networks for YouTube Recommendations (YouTube, 2016)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf) <br />
 
-### 用户行为建模
+### 序列建模
 * [DIN: Deep Interest Network for Click-Through Rate Prediction (Alibaba, 2017)](https://arxiv.org/abs/1706.06978) <br />
 * [DIEN: Deep Interest Evolution Network for Click-Through Rate Prediction (Alibaba, 2018)](https://arxiv.org/abs/1809.03672) <br />
 * [DSIN: Deep Session Interest Network for Click-Through Rate Prediction (Alibaba, 2019)](https://arxiv.org/abs/1905.06482) <br />
