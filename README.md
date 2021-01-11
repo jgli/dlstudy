@@ -1,9 +1,9 @@
 ## 论文阅读记录
 
 ### 多样性
-001: [Adaptive, Personalized Diversity for Visual Discovery (Amazon, 2016)](https://arxiv.org/abs/1810.01477) <br />
-002: [Practical Diversified Recommendations on YouTube with Determinantal Point Processes (YouTube, 2018)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272018) <br />
-003: [Fast Greedy MAP Inference for Determinantal Point Process to Improve Recommendation Diversity (Hulu, 2018)](https://arxiv.org/abs/1709.05135) <br />
+* [Adaptive, Personalized Diversity for Visual Discovery (Amazon, 2016)](https://arxiv.org/abs/1810.01477) <br />
+* [Practical Diversified Recommendations on YouTube with Determinantal Point Processes (YouTube, 2018)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272018) <br />
+* [Fast Greedy MAP Inference for Determinantal Point Process to Improve Recommendation Diversity (Hulu, 2018)](https://arxiv.org/abs/1709.05135) <br />
 
 ### 新颖性
 001: [PURS: Personalized Unexpected Recommender System for Improving User Satisfaction (Alibaba, 2020)](https://lpworld.github.io/files/recsys20.pdf) <br />
