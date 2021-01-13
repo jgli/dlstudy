@@ -3,13 +3,14 @@
 ### 召回和排序
 * [Deep Neural Networks for YouTube Recommendations (YouTube, 2016)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf) <br />
 
-### 序列建模
+### 行为建模
 * [DIN: Deep Interest Network for Click-Through Rate Prediction (Alibaba, 2017)](https://arxiv.org/abs/1706.06978) <br />
 * [DIEN: Deep Interest Evolution Network for Click-Through Rate Prediction (Alibaba, 2018)](https://arxiv.org/abs/1809.03672) <br />
 * [DSIN: Deep Session Interest Network for Click-Through Rate Prediction (Alibaba, 2019)](https://arxiv.org/abs/1905.06482) <br />
 * [BST: Behavior Sequence Transformer for E-commerce Recommendation in Alibaba (Alibaba, 2019)](https://arxiv.org/abs/1905.06874) <br />
 * [ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation (Alibaba, 2017)](https://arxiv.org/abs/1711.06632) <br />
 * [MIMN: Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction (Alibaba, 2019)](https://arxiv.org/abs/1905.09248) <br />
+* [淘宝搜索：淘宝如何做用户建模 (Alibaba, 2020)](https://mp.weixin.qq.com/s/3urKkPfhi4JC7Qe2pLclsg) <br />
 
 ### 特征交叉
 
