@@ -15,6 +15,7 @@
 ### 特征交叉
 
 ### 多任务学习
+* [MMoE: Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts (Google, 2018)](https://dl.acm.org/doi/10.1145/3219819.3220007) <br />
 
 ### 向量化
 

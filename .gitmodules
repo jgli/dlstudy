@@ -34,3 +34,6 @@
 [submodule "MIMN"]
 	path = MIMN
 	url = git@github.com:UIC-Paper/MIMN.git
+[submodule "keras-mmoe"]
+	path = keras-mmoe
+	url = git@github.com:drawbridge/keras-mmoe.git
