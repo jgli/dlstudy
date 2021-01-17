@@ -17,7 +17,7 @@
 ### 多任务学习
 * [MMoE: Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts (Google, 2018)](https://dl.acm.org/doi/10.1145/3219819.3220007) <br />
 * [Recommending what video to watch next: a multitask ranking system (Google, 2019)](https://dl.acm.org/doi/10.1145/3298689.3346997) <br />
-* [ESMM: Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate (Alibaba, 2018)](https://arxiv.org/abs/1804.07931) <br/ >
+* [ESMM: Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate (Alibaba, 2018)](https://arxiv.org/abs/1804.07931) <br />
 
 ### 向量化
 
