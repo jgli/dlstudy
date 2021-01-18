@@ -13,11 +13,15 @@
 * [淘宝搜索：淘宝如何做用户建模 (Alibaba, 2020)](https://mp.weixin.qq.com/s/3urKkPfhi4JC7Qe2pLclsg) <br />
 
 ### 特征交叉
+* [WDL: Wide & Deep Learning for Recommender Systems (Google, 2016)](https://arxiv.org/abs/1606.07792) <br />
+
 
 ### 多任务学习
 * [MMoE: Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts (Google, 2018)](https://dl.acm.org/doi/10.1145/3219819.3220007) <br />
 * [Recommending what video to watch next: a multitask ranking system (Google, 2019)](https://dl.acm.org/doi/10.1145/3298689.3346997) <br />
 * [ESMM: Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate (Alibaba, 2018)](https://arxiv.org/abs/1804.07931) <br />
+* [ESM2: Entire Space Multi-Task Modeling via Post-Click Behavior Decomposition for Conversion Rate Prediction (Alibaba, 2019)](https://arxiv.org/abs/1910.07099) <br />
+
 
 ### 向量化
 
