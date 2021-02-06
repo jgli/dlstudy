@@ -13,7 +13,8 @@
 * [淘宝搜索：淘宝如何做用户建模 (Alibaba, 2020)](https://mp.weixin.qq.com/s/3urKkPfhi4JC7Qe2pLclsg) <br />
 
 ### 特征交叉
-* [WDL: Wide & Deep Learning for Recommender Systems (Google, 2016)](https://arxiv.org/abs/1606.07792) <br />
+* [Wide & Deep: Wide & Deep Learning for Recommender Systems (Google, 2016)](https://arxiv.org/abs/1606.07792) <br />
+* [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction (Huawei, 2017)](https://arxiv.org/abs/1703.04247) <br />
 
 
 ### 多任务学习
