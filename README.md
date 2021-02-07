@@ -15,6 +15,7 @@
 ### 特征交叉
 * [Wide & Deep: Wide & Deep Learning for Recommender Systems (Google, 2016)](https://arxiv.org/abs/1606.07792) <br />
 * [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction (Huawei, 2017)](https://arxiv.org/abs/1703.04247) <br />
+* [PNN: Product-based Neural Networks for User Response Prediction (SJTU, 2016)](https://arxiv.org/abs/1611.00144) <br />
 
 
 ### 多任务学习

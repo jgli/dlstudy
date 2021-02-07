@@ -37,3 +37,6 @@
 [submodule "keras-mmoe"]
 	path = keras-mmoe
 	url = git@github.com:drawbridge/keras-mmoe.git
+[submodule "product-nets"]
+	path = product-nets
+	url = git@github.com:Atomu2014/product-nets.git
