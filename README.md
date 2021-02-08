@@ -17,6 +17,8 @@
 * [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction (Huawei, 2017)](https://arxiv.org/abs/1703.04247) <br />
 * [PNN: Product-based Neural Networks for User Response Prediction (SJTU, 2016)](https://arxiv.org/abs/1611.00144) <br />
 * [FNN: Deep Learning over Multi-field Categorical Data (UCL, 2016)](https://arxiv.org/abs/1601.02376) <br />
+* [DCN: Deep & Cross Network for Ad Click Predictions (Google, 2017)](https://arxiv.org/abs/1708.05123) <br />
+
 
 ### 多任务学习
 * [MMoE: Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts (Google, 2018)](https://dl.acm.org/doi/10.1145/3219819.3220007) <br />
