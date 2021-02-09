@@ -40,3 +40,6 @@
 [submodule "product-nets"]
 	path = product-nets
 	url = git@github.com:Atomu2014/product-nets.git
+[submodule "neural_factorization_machine"]
+	path = neural_factorization_machine
+	url = git@github.com:hexiangnan/neural_factorization_machine.git
