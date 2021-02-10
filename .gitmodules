@@ -43,3 +43,6 @@
 [submodule "neural_factorization_machine"]
 	path = neural_factorization_machine
 	url = git@github.com:hexiangnan/neural_factorization_machine.git
+[submodule "attentional_factorization_machine"]
+	path = attentional_factorization_machine
+	url = git@github.com:hexiangnan/attentional_factorization_machine.git

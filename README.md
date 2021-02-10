@@ -19,6 +19,8 @@
 * [FNN: Deep Learning over Multi-field Categorical Data (UCL, 2016)](https://arxiv.org/abs/1601.02376) <br />
 * [DCN: Deep & Cross Network for Ad Click Predictions (Google, 2017)](https://arxiv.org/abs/1708.05123) <br />
 * [NFM: Neural Factorization Machines for Sparse Predictive Analytics (NUS, 2017)](https://arxiv.org/abs/1708.05027) <br />
+* [AFM: Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks (ZJU, 2017)](https://arxiv.org/abs/1708.04617) <br />
+* [Deep Crossing: Web-Scale Modeling without Manually Crafted Combinatorial Features (Microsoft, 2016)](https://www.kdd.org/kdd2016/subtopic/view/deep-crossing-web-scale-modeling-without-manually-crafted-combinatorial-fea) <br />
 
 
 ### 多任务学习
