@@ -21,6 +21,7 @@
 * [NFM: Neural Factorization Machines for Sparse Predictive Analytics (NUS, 2017)](https://arxiv.org/abs/1708.05027) <br />
 * [AFM: Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks (ZJU, 2017)](https://arxiv.org/abs/1708.04617) <br />
 * [Deep Crossing: Web-Scale Modeling without Manually Crafted Combinatorial Features (Microsoft, 2016)](https://www.kdd.org/kdd2016/subtopic/view/deep-crossing-web-scale-modeling-without-manually-crafted-combinatorial-fea) <br />
+* [xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems (USTC, 2018)](https://arxiv.org/abs/1803.05170) <br />
 
 
 ### 多任务学习
