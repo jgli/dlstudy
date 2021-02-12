@@ -11,6 +11,8 @@
 * [ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation (Alibaba, 2017)](https://arxiv.org/abs/1711.06632) <br />
 * [MIMN: Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction (Alibaba, 2019)](https://arxiv.org/abs/1905.09248) <br />
 * [淘宝搜索：淘宝如何做用户建模 (Alibaba, 2020)](https://mp.weixin.qq.com/s/3urKkPfhi4JC7Qe2pLclsg) <br />
+* [Image Matters: Visually modeling user behaviors using Advanced Model Server (Alibaba, 2018)](https://arxiv.org/abs/1711.06505) <br />
+
 
 ### 特征交叉
 * [Wide & Deep: Wide & Deep Learning for Recommender Systems (Google, 2016)](https://arxiv.org/abs/1606.07792) <br />
