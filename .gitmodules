@@ -49,3 +49,18 @@
 [submodule "xDeepFM"]
 	path = xDeepFM
 	url = git@github.com:Leavingseason/xDeepFM.git
+[submodule "Deep-Learning-with-TensorFlow-book"]
+	path = Deep-Learning-with-TensorFlow-book
+	url = git@github.com:dragen1860/Deep-Learning-with-TensorFlow-book.git
+[submodule "deeplearningbook-chinese"]
+	path = deeplearningbook-chinese
+	url = git@github.com:exacity/deeplearningbook-chinese.git
+[submodule "DCGAN-tensorflow"]
+	path = DCGAN-tensorflow
+	url = git@github.com:carpedm20/DCGAN-tensorflow.git
+[submodule "transformers"]
+	path = transformers
+	url = git@github.com:huggingface/transformers.git
+[submodule "d2l-zh"]
+	path = d2l-zh
+	url = git@github.com:d2l-ai/d2l-zh.git
