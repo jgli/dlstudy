@@ -2,6 +2,8 @@
 
 ### 召回和排序
 * [Deep Neural Networks for YouTube Recommendations (Google, 2016)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf) <br />
+* [DSSM: Learning Deep Structured Semantic Models for Web Search using Clickthrough Data (Microsoft, 2013)](https://www.microsoft.com/en-us/research/publication/learning-deep-structured-semantic-models-for-web-search-using-clickthrough-data/) <br />
+
 
 ### 行为建模
 * [DIN: Deep Interest Network for Click-Through Rate Prediction (Alibaba, 2017)](https://arxiv.org/abs/1706.06978) <br />
