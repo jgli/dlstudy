@@ -4,6 +4,7 @@
 * [Deep Neural Networks for YouTube Recommendations (Google, 2016)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf) <br />
 * [DSSM: Learning Deep Structured Semantic Models for Web Search using Clickthrough Data (Microsoft, 2013)](https://www.microsoft.com/en-us/research/publication/learning-deep-structured-semantic-models-for-web-search-using-clickthrough-data/) <br />
 * [DSSM in Recsys: A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems (Microsoft, 2015)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/frp1159-songA.pdf) <br />
+* [Latent Cross: Making Use of Context in Recurrent Recommender Systems (Google, 2018)](https://research.google/pubs/pub46488/) <br />
 
 
 ### 行为建模
