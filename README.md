@@ -1,6 +1,6 @@
 ## 论文阅读记录
 
-### 召回和排序
+### 推荐系统综合
 * [Deep Neural Networks for YouTube Recommendations (Google, 2016)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf) <br />
 * [DSSM: Learning Deep Structured Semantic Models for Web Search using Clickthrough Data (Microsoft, 2013)](https://www.microsoft.com/en-us/research/publication/learning-deep-structured-semantic-models-for-web-search-using-clickthrough-data/) <br />
 * [DSSM in Recsys: A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems (Microsoft, 2015)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/frp1159-songA.pdf) <br />
@@ -46,3 +46,7 @@
 
 ### 新颖性
 * [PURS: Personalized Unexpected Recommender System for Improving User Satisfaction (Alibaba, 2020)](https://lpworld.github.io/files/recsys20.pdf) <br />
+
+### 其他
+* [Memory Networks (Facebook, 2015)](https://arxiv.org/abs/1410.3916) <br />
+
