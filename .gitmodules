@@ -64,3 +64,6 @@
 [submodule "d2l-zh"]
 	path = d2l-zh
 	url = git@github.com:d2l-ai/d2l-zh.git
+[submodule "MemNN"]
+	path = MemNN
+	url = git@github.com:facebook/MemNN.git

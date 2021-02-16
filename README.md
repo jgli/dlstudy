@@ -47,6 +47,10 @@
 ### 新颖性
 * [PURS: Personalized Unexpected Recommender System for Improving User Satisfaction (Alibaba, 2020)](https://lpworld.github.io/files/recsys20.pdf) <br />
 
-### 其他
-* [Memory Networks (Facebook, 2015)](https://arxiv.org/abs/1410.3916) <br />
+### 记忆网络
+* [Memory Networks (Facebook, 2014)](https://arxiv.org/abs/1410.3916) <br />
+* [End-To-End Memory Networks (Facebook, 2015)](https://arxiv.org/abs/1503.08895) <br />
+* [Neural Turing Machines (Google, 2014)](https://arxiv.org/abs/1410.5401) <br />
+
+
 
