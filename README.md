@@ -39,18 +39,17 @@
 
 ### 向量化
 
-### 多样性
+### 多样性 & 新颖性
 * [Adaptive, Personalized Diversity for Visual Discovery (Amazon, 2016)](https://arxiv.org/abs/1810.01477) <br />
 * [Practical Diversified Recommendations on YouTube with Determinantal Point Processes (Google, 2018)](https://dl.acm.org/doi/pdf/10.1145/3269206.3272018) <br />
 * [Fast Greedy MAP Inference for Determinantal Point Process to Improve Recommendation Diversity (Hulu, 2018)](https://arxiv.org/abs/1709.05135) <br />
-
-### 新颖性
 * [PURS: Personalized Unexpected Recommender System for Improving User Satisfaction (Alibaba, 2020)](https://lpworld.github.io/files/recsys20.pdf) <br />
 
-### 记忆网络
+### 其他
 * [Memory Networks (Facebook, 2014)](https://arxiv.org/abs/1410.3916) <br />
 * [End-To-End Memory Networks (Facebook, 2015)](https://arxiv.org/abs/1503.08895) <br />
 * [Neural Turing Machines (Google, 2014)](https://arxiv.org/abs/1410.5401) <br />
+* [Attention Is All You Need (Google, 2017)](https://arxiv.org/abs/1706.03762) <br />
 
 
 

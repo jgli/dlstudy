@@ -67,3 +67,6 @@
 [submodule "MemNN"]
 	path = MemNN
 	url = git@github.com:facebook/MemNN.git
+[submodule "tensor2tensor"]
+	path = tensor2tensor
+	url = git@github.com:tensorflow/tensor2tensor.git
