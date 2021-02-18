@@ -1,13 +1,5 @@
 ## 论文阅读记录
 
-### 推荐系统综合
-* [Deep Neural Networks for YouTube Recommendations (Google, 2016)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf) <br />
-* [DSSM: Learning Deep Structured Semantic Models for Web Search using Clickthrough Data (Microsoft, 2013)](https://www.microsoft.com/en-us/research/publication/learning-deep-structured-semantic-models-for-web-search-using-clickthrough-data/) <br />
-* [DSSM in Recsys: A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems (Microsoft, 2015)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/frp1159-songA.pdf) <br />
-* [Latent Cross: Making Use of Context in Recurrent Recommender Systems (Google, 2018)](https://research.google/pubs/pub46488/) <br />
-* [Personalized Re-ranking for Recommendation (Alibaba, 2019)](https://arxiv.org/abs/1904.06813) <br />
-
-
 ### 行为建模
 * [DIN: Deep Interest Network for Click-Through Rate Prediction (Alibaba, 2017)](https://arxiv.org/abs/1706.06978) <br />
 * [DIEN: Deep Interest Evolution Network for Click-Through Rate Prediction (Alibaba, 2018)](https://arxiv.org/abs/1809.03672) <br />
@@ -17,7 +9,6 @@
 * [MIMN: Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction (Alibaba, 2019)](https://arxiv.org/abs/1905.09248) <br />
 * [淘宝搜索：淘宝如何做用户建模 (Alibaba, 2020)](https://mp.weixin.qq.com/s/3urKkPfhi4JC7Qe2pLclsg) <br />
 * [Image Matters: Visually modeling user behaviors using Advanced Model Server (Alibaba, 2018)](https://arxiv.org/abs/1711.06505) <br />
-
 
 ### 特征交叉
 * [Wide & Deep: Wide & Deep Learning for Recommender Systems (Google, 2016)](https://arxiv.org/abs/1606.07792) <br />
@@ -30,13 +21,18 @@
 * [Deep Crossing: Web-Scale Modeling without Manually Crafted Combinatorial Features (Microsoft, 2016)](https://www.kdd.org/kdd2016/subtopic/view/deep-crossing-web-scale-modeling-without-manually-crafted-combinatorial-fea) <br />
 * [xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems (USTC, 2018)](https://arxiv.org/abs/1803.05170) <br />
 
-
 ### 多任务学习
 * [MMoE: Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts (Google, 2018)](https://dl.acm.org/doi/10.1145/3219819.3220007) <br />
 * [Recommending what video to watch next: a multitask ranking system (Google, 2019)](https://dl.acm.org/doi/10.1145/3298689.3346997) <br />
 * [ESMM: Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate (Alibaba, 2018)](https://arxiv.org/abs/1804.07931) <br />
 * [ESM2: Entire Space Multi-Task Modeling via Post-Click Behavior Decomposition for Conversion Rate Prediction (Alibaba, 2019)](https://arxiv.org/abs/1910.07099) <br />
 
+### 推荐系统综合
+* [Deep Neural Networks for YouTube Recommendations (Google, 2016)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf) <br />
+* [DSSM: Learning Deep Structured Semantic Models for Web Search using Clickthrough Data (Microsoft, 2013)](https://www.microsoft.com/en-us/research/publication/learning-deep-structured-semantic-models-for-web-search-using-clickthrough-data/) <br />
+* [DSSM in Recsys: A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems (Microsoft, 2015)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/frp1159-songA.pdf) <br />
+* [Latent Cross: Making Use of Context in Recurrent Recommender Systems (Google, 2018)](https://research.google/pubs/pub46488/) <br />
+* [Personalized Re-ranking for Recommendation (Alibaba, 2019)](https://arxiv.org/abs/1904.06813) <br />
 
 ### 向量化
 
