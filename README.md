@@ -42,6 +42,10 @@
 * [Fast Greedy MAP Inference for Determinantal Point Process to Improve Recommendation Diversity (Hulu, 2018)](https://arxiv.org/abs/1709.05135) <br />
 * [PURS: Personalized Unexpected Recommender System for Improving User Satisfaction (Alibaba, 2020)](https://lpworld.github.io/files/recsys20.pdf) <br />
 
+### 优化
+* [Group Normalization (Facebook, 2018)](https://arxiv.org/abs/1803.08494) <br />
+
+
 ### 其他
 * [Memory Networks (Facebook, 2014)](https://arxiv.org/abs/1410.3916) <br />
 * [End-To-End Memory Networks (Facebook, 2015)](https://arxiv.org/abs/1503.08895) <br />
