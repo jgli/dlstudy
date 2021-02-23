@@ -7,6 +7,7 @@
 * [BST: Behavior Sequence Transformer for E-commerce Recommendation in Alibaba (Alibaba, 2019)](https://arxiv.org/abs/1905.06874) <br />
 * [ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation (Alibaba, 2017)](https://arxiv.org/abs/1711.06632) <br />
 * [MIMN: Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction (Alibaba, 2019)](https://arxiv.org/abs/1905.09248) <br />
+* [SIM: Search-based User Interest Modeling with Lifelong Sequential Behavior Data for Click-Through Rate Prediction (Alibaba, 2020)](https://arxiv.org/abs/2006.05639) <br />
 * [淘宝搜索：淘宝如何做用户建模 (Alibaba, 2020)](https://mp.weixin.qq.com/s/3urKkPfhi4JC7Qe2pLclsg) <br />
 * [Image Matters: Visually modeling user behaviors using Advanced Model Server (Alibaba, 2018)](https://arxiv.org/abs/1711.06505) <br />
 
