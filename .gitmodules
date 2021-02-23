@@ -73,3 +73,9 @@
 [submodule "Group-Normalization-Tensorflow"]
 	path = Group-Normalization-Tensorflow
 	url = git@github.com:shaohua0116/Group-Normalization-Tensorflow.git
+[submodule "EvoNorm"]
+	path = EvoNorm
+	url = git@github.com:digantamisra98/EvoNorm.git
+[submodule "GRU4Rec"]
+	path = GRU4Rec
+	url = git@github.com:hidasib/GRU4Rec.git

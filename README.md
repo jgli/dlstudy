@@ -33,6 +33,7 @@
 * [DSSM in Recsys: A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems (Microsoft, 2015)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/frp1159-songA.pdf) <br />
 * [Latent Cross: Making Use of Context in Recurrent Recommender Systems (Google, 2018)](https://research.google/pubs/pub46488/) <br />
 * [Personalized Re-ranking for Recommendation (Alibaba, 2019)](https://arxiv.org/abs/1904.06813) <br />
+* [GRU4Rec: Session-based Recommendations with Recurrent Neural Networks (Gravity, 2016)](https://arxiv.org/abs/1511.06939) <br />
 
 ### 向量化
 
@@ -44,7 +45,10 @@
 
 ### 优化
 * [Group Normalization (Facebook, 2018)](https://arxiv.org/abs/1803.08494) <br />
-
+* [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (Google, 2015)](https://arxiv.org/abs/1502.03167) <br />
+* [Layer Normalization (Google, 2016)](https://arxiv.org/abs/1607.06450) <br />
+* [Instance Normalization: The Missing Ingredient for Fast Stylization (Yandex, 2017)](https://arxiv.org/abs/1607.08022) <br />
+* [Evolving Normalization-Activation Layers (Google, 2020)](https://arxiv.org/abs/2004.02967) <br />
 
 ### 其他
 * [Memory Networks (Facebook, 2014)](https://arxiv.org/abs/1410.3916) <br />
