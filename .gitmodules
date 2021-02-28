@@ -79,3 +79,6 @@
 [submodule "GRU4Rec"]
 	path = GRU4Rec
 	url = git@github.com:hidasib/GRU4Rec.git
+[submodule "DeepMatch"]
+	path = DeepMatch
+	url = git@github.com:shenweichen/DeepMatch.git
