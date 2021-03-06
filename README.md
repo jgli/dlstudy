@@ -23,6 +23,7 @@
 * [AFM: Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks (ZJU, 2017)](https://arxiv.org/abs/1708.04617) <br />
 * [Deep Crossing: Web-Scale Modeling without Manually Crafted Combinatorial Features (Microsoft, 2016)](https://www.kdd.org/kdd2016/subtopic/view/deep-crossing-web-scale-modeling-without-manually-crafted-combinatorial-fea) <br />
 * [xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems (USTC, 2018)](https://arxiv.org/abs/1803.05170) <br />
+* [AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks (PKU, 2019)](https://arxiv.org/abs/1810.11921) <br />
 
 ### 多任务学习
 * [MMoE: Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts (Google, 2018)](https://dl.acm.org/doi/10.1145/3219819.3220007) <br />
@@ -58,6 +59,4 @@
 * [End-To-End Memory Networks (Facebook, 2015)](https://arxiv.org/abs/1503.08895) <br />
 * [Neural Turing Machines (Google, 2014)](https://arxiv.org/abs/1410.5401) <br />
 * [Attention Is All You Need (Google, 2017)](https://arxiv.org/abs/1706.03762) <br />
-
-
-
+* [Dynamic Routing Between Capsules (Google, 2017)](https://arxiv.org/abs/1710.09829) <br />

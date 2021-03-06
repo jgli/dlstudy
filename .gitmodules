@@ -82,3 +82,6 @@
 [submodule "DeepMatch"]
 	path = DeepMatch
 	url = git@github.com:shenweichen/DeepMatch.git
+[submodule "AutoInt"]
+	path = AutoInt
+	url = git@github.com:shichence/AutoInt.git
