@@ -24,6 +24,7 @@
 * [Deep Crossing: Web-Scale Modeling without Manually Crafted Combinatorial Features (Microsoft, 2016)](https://www.kdd.org/kdd2016/subtopic/view/deep-crossing-web-scale-modeling-without-manually-crafted-combinatorial-fea) <br />
 * [xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems (USTC, 2018)](https://arxiv.org/abs/1803.05170) <br />
 * [AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks (PKU, 2019)](https://arxiv.org/abs/1810.11921) <br />
+* [CAN: Revisiting Feature Co-Action for Click-Through Rate Prediction (Alibaba, 2020)](https://arxiv.org/abs/2011.05625) <br />
 
 ### 多任务学习
 * [MMoE: Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts (Google, 2018)](https://dl.acm.org/doi/10.1145/3219819.3220007) <br />

@@ -85,3 +85,6 @@
 [submodule "AutoInt"]
 	path = AutoInt
 	url = git@github.com:shichence/AutoInt.git
+[submodule "Co-Action-Network"]
+	path = Co-Action-Network
+	url = git@github.com:CAN-Paper/Co-Action-Network.git
