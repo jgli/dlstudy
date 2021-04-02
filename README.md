@@ -12,6 +12,8 @@
 * [淘宝搜索：淘宝如何做用户建模 (Alibaba, 2020)](https://mp.weixin.qq.com/s/3urKkPfhi4JC7Qe2pLclsg) <br />
 * [Image Matters: Visually modeling user behaviors using Advanced Model Server (Alibaba, 2018)](https://arxiv.org/abs/1711.06505) <br />
 * [MIND: Multi-Interest Network with Dynamic Routing for Recommendation at Tmall (Alibaba, 2019)](https://arxiv.org/abs/1904.08030) <br />
+* [SINE: Sparse-Interest Network for Sequential Recommendation (Alibaba, 2021)](https://arxiv.org/abs/2102.09267) <br />
+* [DMIN: Deep Multi-Interest Network for Click-through Rate Prediction (Alibaba, 2020)](https://www.researchgate.net/publication/345125472_Deep_Multi-Interest_Network_for_Click-through_Rate_Prediction) <br />
 
 ### 特征交叉
 * [Wide & Deep: Wide & Deep Learning for Recommender Systems (Google, 2016)](https://arxiv.org/abs/1606.07792) <br />

@@ -88,3 +88,6 @@
 [submodule "Co-Action-Network"]
 	path = Co-Action-Network
 	url = git@github.com:CAN-Paper/Co-Action-Network.git
+[submodule "DMIN"]
+	path = DMIN
+	url = git@github.com:mengxiaozhibo/DMIN.git
