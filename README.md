@@ -43,6 +43,8 @@
 * [GRU4Rec: Session-based Recommendations with Recurrent Neural Networks (Gravity, 2016)](https://arxiv.org/abs/1511.06939) <br />
 
 ### 向量化
+* [Word2Vec: Efficient Estimation of Word Representations in Vector Space (Google, 2013)](https://arxiv.org/abs/1301.3781) <br />
+* [Word2Vec: Distributed Representations of Words and Phrases and their Compositionality (Google, 2013)](https://arxiv.org/abs/1310.4546) <br />
 
 ### 多样性 & 新颖性
 * [Adaptive, Personalized Diversity for Visual Discovery (Amazon, 2016)](https://arxiv.org/abs/1810.01477) <br />
