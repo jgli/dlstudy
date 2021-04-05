@@ -45,6 +45,7 @@
 ### 向量化
 * [Word2Vec: Efficient Estimation of Word Representations in Vector Space (Google, 2013)](https://arxiv.org/abs/1301.3781) <br />
 * [Word2Vec: Distributed Representations of Words and Phrases and their Compositionality (Google, 2013)](https://arxiv.org/abs/1310.4546) <br />
+* [Word2Vec: word2vec Parameter Learning Explained (UMich, 2016)](https://arxiv.org/abs/1411.2738) <br />
 * [Item2Vec: Neural Item Embedding for Collaborative Filtering (Microsoft, 2016)](https://arxiv.org/abs/1603.04259) <br />
 
 ### 多样性 & 新颖性
