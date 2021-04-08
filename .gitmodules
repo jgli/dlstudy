@@ -91,3 +91,6 @@
 [submodule "DMIN"]
 	path = DMIN
 	url = git@github.com:mengxiaozhibo/DMIN.git
+[submodule "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising"]
+	path = Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising
+	url = git@github.com:guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising.git
