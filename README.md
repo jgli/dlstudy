@@ -42,6 +42,13 @@
 * [Latent Cross: Making Use of Context in Recurrent Recommender Systems (Google, 2018)](https://research.google/pubs/pub46488/) <br />
 * [Personalized Re-ranking for Recommendation (Alibaba, 2019)](https://arxiv.org/abs/1904.06813) <br />
 * [GRU4Rec: Session-based Recommendations with Recurrent Neural Networks (Gravity, 2016)](https://arxiv.org/abs/1511.06939) <br />
+* [Applying Deep Learning To Airbnb Search (Airbnb, 2018)](https://arxiv.org/abs/1810.09591) <br />
+* [Improving Deep Learning For Airbnb Search (Airbnb, 2020)](https://arxiv.org/abs/2002.05515) <br />
+
+### bias
+* [Bias and Debias in Recommender System: A Survey and Future Directions (USTC, 2020)](https://arxiv.org/abs/2010.03240) <br />
+* [PAL: a position-bias aware learning framework for CTR prediction in live recommender systems (Huawei, 2019)](https://www.researchgate.net/publication/335771749_PAL_a_position-bias_aware_learning_framework_for_CTR_prediction_in_live_recommender_systems) <br />
+* [Learning-To-Rank with Context-Aware Position Debiasing (Meituan, 2020)](https://dlp-kdd.github.io/assets/pdf/a18-xiao.pdf) <br />
 
 ### 向量化
 * [Word2Vec: Efficient Estimation of Word Representations in Vector Space (Google, 2013)](https://arxiv.org/abs/1301.3781) <br />
