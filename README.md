@@ -31,6 +31,7 @@
 ### 多任务学习
 * [MMoE: Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts (Google, 2018)](https://dl.acm.org/doi/10.1145/3219819.3220007) <br />
 * [Recommending what video to watch next: a multitask ranking system (Google, 2019)](https://dl.acm.org/doi/10.1145/3298689.3346997) <br />
+* [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer (Google, 2017)](https://arxiv.org/abs/1701.06538) <br />
 * [ESMM: Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate (Alibaba, 2018)](https://arxiv.org/abs/1804.07931) <br />
 * [ESM2: Entire Space Multi-Task Modeling via Post-Click Behavior Decomposition for Conversion Rate Prediction (Alibaba, 2019)](https://arxiv.org/abs/1910.07099) <br />
 * [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations (Tencent, 2020)](https://dl.acm.org/doi/abs/10.1145/3383313.3412236) <br />

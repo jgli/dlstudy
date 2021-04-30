@@ -94,3 +94,6 @@
 [submodule "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising"]
 	path = Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising
 	url = git@github.com:guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising.git
+[submodule "mixture-of-experts"]
+	path = mixture-of-experts
+	url = git@github.com:davidmrau/mixture-of-experts.git
